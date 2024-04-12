@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package lp.tp5;
 
-/**
- *
- * @author rodrigo
- */
+package lp.tp5;
+//william brito xdxdxdxdxdxdxd
+
 public class TP5 extends javax.swing.JFrame {
 
     /**
